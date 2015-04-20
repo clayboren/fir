@@ -1,0 +1,31 @@
+body {background-image:url("images/fffcf6.png");background-size:auto;line-height:1;}
+.container a {color: black;}
+p,a,h1,h2,h3,h4 {font-family:'Open Sans', sans-serif;}
+li {list-style: none;}
+p {font-size:110%;}
+ul {margin:0%;padding:0%;}
+#slider1_container {width:620px;height:420px;}
+#slider1_slides {width:620px;height:420px;}
+#banner {width:700px;padding-top:1%;}
+#hours {font-size:145%;}
+.fb-like-box {width:100%;}
+#gmaps {width:100%;height:450px;}
+#spine-xray-img {width:100%;height:auto;}
+#massage-therapy-img {width:100%;height:auto;}
+#therapeutic-massage-image {width:100%;height:auto;}
+#rhodes-brothers-img {width:100%;height:auto;}
+#haddock-pic {width:100%;height:auto;}
+#brimer-pic {width:100%;height:auto;}
+#willene-pic {width:100%;height:auto;}
+#hendrix-pic {width:100%;height:auto;}
+
+@media(max-width:640px),(max-width:667px) {
+    #slider1_container {width:275px;height:185px;}
+    #slider1_slides {width:275px;height:185px;}
+    #banner {width:300px;}
+    #spine-xray-img {height:275px;}
+    #therapeutic-massage-image {width:300px;}
+    #rhodes-brothers-img {width:300px;}
+    #hours {font-size:120%;}
+    #gmaps {width:100%;height:auto;}
+}
